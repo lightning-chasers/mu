@@ -1,5 +1,5 @@
 # mugen
-##The mu stands for
+## The mu stands for
 Monetary Unit (MU, M.U. or mu)
 
 ## As noted
