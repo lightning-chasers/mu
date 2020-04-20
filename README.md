@@ -2,8 +2,52 @@
 ## The mu stands for
 Monetary Unit (MU, M.U. or mu)
 
+**work-in-progress**
+
+The monetary standardization of goods and services based on potable distilled water where:
+- distilled water fit for biological consumption by human beings (particulary infants and the elderly) is taken as a categorical datum of zero (0).
+- nuclear waste from fissile or spent radioactive material from any type of research and development (R&D) is taken as the categorical datum of minus one (-1).
+- unconstrained, atmospheric helium that is not part of economic production activities is taken as the categorical datum of plus one (+1).
+
+The categorical range conceived between minus one to zero and zero to plus one is losslessly compressed into a computable range of (-1,0] and [0,+1) respectively where:
+  + ranges, each of size -1 < 0 < +1, are partitioned geometrically along an *orthonormal* dimensional vector space where the dot product (inner product) of any two normed vectors, produce an indexible node or "shape". 
+  + In this normed vector space, each recursively indexable portion called a node is assigned a (dynamically encripted) cybernetics URI. 
+  See, https://en.wikipedia.org/wiki/Uniform_Resource_Identifier  
+
+Revist: https://en.wikipedia.org/wiki/Normed_vector_space
+
+```
+Distilled water's relationship to and usages as ultrapurified water is the key factor and most important rationale in this cybernetics based versioning of petrochemical feul economics.
+
+It can be shown that most petrochemical products, their production and the entire process of fossil fuel excavation is negatively valued in comparision to double-distilled tap water. Considering that double-distilled tap water of most jurisdictions on earth is fit for human consumption without additives along with healthy diet and exercise, any form of activity or process that reduces this consumable capacity of double-distilled tap water is sub par or at best on par with the merely availablility of ground water. 
+```
+ 
+- nu
+  ```
+  https://en.wikipedia.org/wiki/F-number | f-number - Wikipedia
+  https://en.wikipedia.org/wiki/Circle_of_confusion | Circle of confusion - Wikipedia
+  https://en.wikipedia.org/wiki/Defocus_aberration | Defocus aberration - Wikipedia
+  https://en.wikipedia.org/wiki/Shape_from_focus | Shape from focus - Wikipedia
+  https://en.wikipedia.org/wiki/3D_reconstruction | 3D reconstruction - Wikipedia
+  ```
+
+- mu
+  ```
+  https://en.wikipedia.org/wiki/Heavy_water | Heavy water - Wikipedia
+  https://en.wikipedia.org/wiki/Ultrapure_water | Ultrapure water - Wikipedia
+  https://t2k-experiment.org/ | The T2K Experiment
+  https://en.wikipedia.org/wiki/Deionized_water | Purified water - Wikipedia
+  https://en.wikipedia.org/wiki/Parts-per_notation | Parts-per notation - Wikipedia
+  ```
+
+- eu
+
+  ???
+  ??
+  ?
+
 ## As noted
-1 litre or 1 kilogram of (strictly) potable water such that: 
+1 litre or 1 kilogram of purified <sup>1</sup>H<sub>2</sub>O water such that: 
   - its **molar** concentration of hydronium ion count <sub>n</sub>[H<sub>3</sub>0<sup>+</sup>] with respect to hydroxyl ion count <sub>n</sub>[OH<sup>-</sup>] within, 
   - aqueous solution state that has, 
   - at most 1 part per trillion (10<sup>12</sup>) of non H<sub>2</sub>0 based components or impurities at, 
