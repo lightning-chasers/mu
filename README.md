@@ -9,10 +9,49 @@ The monetary standardization of goods and services based on potable distilled wa
 - nuclear waste from fissile or spent radioactive material from any type of research and development (R&D) is taken as the categorical datum of minus one (-1).
 - unconstrained, atmospheric helium that is not part of economic production activities is taken as the categorical datum of plus one (+1).
 
-The categorical range conceived between minus one to zero and zero to plus one is losslessly compressed into a computable range of (-1,0] and [0,+1) respectively where:
-  + ranges, each of size -1 < 0 < +1, are partitioned geometrically along an *orthonormal* dimensional vector space where the dot product (inner product) of any two normed vectors, produce an indexible node or "shape". 
+The categorical range conceived between minus one to zero and zero to plus one is losslessly compressed into a computable ordinal interval of `(-1,0]` and `[0,+1)` respectively where:
+  + intervals, each of size -1 < 0 < +1, are partitioned geometrically along an *orthonormal* dimensional vector space where the dot product (inner product) of any two normed vectors, produces an indexible node or "shape". 
   + In this normed vector space, each recursively indexable portion called a node is assigned a (dynamically encripted) cybernetics URI. 
-  Similar to URI: https://en.wikipedia.org/wiki/Uniform_Resource_Identifier  
+  Similar to URI: https://en.wikipedia.org/wiki/Uniform_Resource_Identifier
+  + **Important note:** Let -1 coincide with *-Inf* and 1 coincide with *Inf* while 0 remains 0. Dialating the real number interval `(-1, 1)` in this manner to `(-Inf, Inf)` with arbitrary precission is unnecessary if the compression algorithm has appropriate girth while unambiguously encoding and decoding an indexible node, within `(-1, 1)`, along or about a particular dimension i.e. axis. Here, "along" implies translational operations and "about" implies rotational operations. The discrete number of dimensions i.e. axes that can be used for constructing the required topological space that can index each evolving URI becomes a challenge in itself. For this reason while an analog system can parse fractional dimensions with greatest possible accuracy and precission of its *n dimensional* topology, a digital system can only parse fixed precission discrete numbers with bounded neighborhoods (regions) in its *n-1 dimensional* topology. 
+
+    It is also computationally problematic and recursively expensive, in material resources sense, to functionally assign (i.e. map) the given real number span of `(-1,1)` including the symmetric bisector of that span at 0, to any other real number span i.e. ordinal range or indexible space such as: 
+    - `(-1, -1/2] and [-1/2, 0)`
+    - `(0, 1/2] and [1/2, 1]` 
+    - `(ω<sub>0</sub>,ω<sub>ω</sub>)` or `(ω<sub>0</sub>,ω<sup>ω</sup>)` 
+    where, **ω<sub>0</sub>** represents a set of transfinite ordinal numbers with a possible ordinal limit at some *ω* such that no such ordinal number *α* can exist in the form *α + 1 = ω*. 
+    See: https://en.wikipedia.org/wiki/Limit_ordinal and 
+         https://en.wikipedia.org/wiki/First_uncountable_ordinal
+         https://en.wikipedia.org/wiki/Transfinite_number 
+         (Transfinitism is merely the idea of using **mod** *Inf* arithmetic, with as many iterations of "counting" done, as possible, at each instance of reaching *Inf*, along as many dimensions as possible.)
+
+    For comprehending the topics of: 
+      Invarience i.e. accuracy in analytics and 
+      The partition of a unit of an analysable entity 
+    it is truly worth noting the contributions of lytics like Leonhard Euler and Srinivasa Ramanujan:
+    - https://en.wikipedia.org/wiki/Fundamental_theorem_on_homomorphisms and
+      https://en.wikipedia.org/wiki/Group_homomorphism and
+      https://en.wikipedia.org/wiki/Homomorphism
+      
+    - https://en.wikipedia.org/wiki/Leonhard_Euler#Analysis
+    - https://en.wikipedia.org/wiki/Root_of_unity#General_definition
+    
+    - https://en.wikipedia.org/wiki/Ramanujan%27s_sum#Notation
+      
+      From here, most people end up in the zeta-function trap: https://en.wikipedia.org/wiki/Riemann_zeta_function or try to find a continuum transfunctioner next to a white castle in Camelot because they get the munchies. Please avoid all of that! Instead follow this line of reasoning about probabilities and causalities: 
+        - https://en.wikipedia.org/wiki/Probability_axioms#Axioms
+        - https://en.wikipedia.org/wiki/Probability#Not_mutually_exclusive_events 
+          Consider the challenge of how to define an "event" when considering connectedness or relatedness or coupling between events: 
+          - https://en.wikipedia.org/wiki/Monty_Hall_problem#Confusion_and_criticism
+          - https://en.wikipedia.org/wiki/Monty_Hall_problem#Other_host_behaviors
+ 
+          - And to defeat each Rick at the "Citadel of Ricks" merely solve quantum-n-doors-monty:
+            - https://en.wikipedia.org/wiki/Monty_Hall_problem#Quantum_version
+            - https://en.wikipedia.org/wiki/Monty_Hall_problem#N_doors
+            - Don't stare at the goat or you will end up killing it! https://youtu.be/wyNcf4tNLb4
+              Instead try staring at Kevin: https://en.wikipedia.org/wiki/Kevin_Spacey#Sexual_misconduct_allegations
+
+
 
 TODO:
  - Revist: https://en.wikipedia.org/wiki/Normed_vector_space
@@ -82,6 +121,9 @@ As always, this proportionate measure is relational to the portable account. Suc
 - Nana Nana Nana Nana: https://en.wikipedia.org/wiki/Nernst_equation  
 
 ## Referenced referees and refereed references
+1. Distilation: https://en.wikipedia.org/wiki/Distillation 
+  See also: https://en.wikipedia.org/wiki/Template:Separation_processes
+  
 1. Water and related systems. The hydronium ion (H3O+). Preparation and characterization by high resolution oxygen-17 nuclear magnetic resonance for an estimate of oxygen-18 to oxygen-16, heavy water constituent, ratio. 
   Gheorghe D. Mateescu and George M. Benedikt
   Journal of the American Chemical Society 1979 101 (14), 3959-3960
@@ -98,7 +140,9 @@ As always, this proportionate measure is relational to the portable account. Suc
   Yuan, B., Koss, A., Warneke, C., Gilman, J. B., Lerner, B. M., Stark, H., and de Gouw, J. A.,
   Atmos. Meas. Tech., 9, 2735–2752, https://doi.org/10.5194/amt-9-2735-2016, 2016. 
   Also, https://www.atmos-meas-tech.net/9/2735/2016/
-  
+
+1. Exclusively for "The Victims of Fun" living out unconditionally risky games: https://en.wikipedia.org/wiki/List_of_theorems
+
 ## Along with trite and recondite discussion topics
 - https://www.researchgate.net/post/What_is_the_concentration_of_hydronium_ions_H3O_or_free_unbound_protons_H_as_an_equivalent_of_pH74_in_water_solution
 - Subversioned setting of a single sitting, without, subversive or subverted **cuttings**, dealings or doxing!
