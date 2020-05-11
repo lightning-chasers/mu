@@ -23,32 +23,50 @@ The categorical range conceived between minus one to zero and zero to plus one i
     See: https://en.wikipedia.org/wiki/Limit_ordinal and 
          https://en.wikipedia.org/wiki/First_uncountable_ordinal
          https://en.wikipedia.org/wiki/Transfinite_number 
-         (Transfinitism is merely the idea of using **mod** *Inf* arithmetic, with as many iterations of "counting" done, as possible, at each instance of reaching *Inf*, along as many dimensions as possible.)
+         (Transfinitism is merely the idea of using **mod** *Inf* arithmetic, with as many iterations of "counting" done, as possible, at each instance of reaching *Inf*, along as many dimensions as possible, using **mod** *inf* counting method for each such real numbered dimension.)
 
-    For comprehending the topics of: 
+    For comprehending the topics of:
+ 
       Invarience i.e. accuracy in analytics and 
+
       The partition of a unit of an analysable entity 
-    it is truly worth noting the contributions of lytics like Leonhard Euler and Srinivasa Ramanujan:
-    - https://en.wikipedia.org/wiki/Fundamental_theorem_on_homomorphisms and
-      https://en.wikipedia.org/wiki/Group_homomorphism and
-      https://en.wikipedia.org/wiki/Homomorphism
+
+      It is truly worth noting the contributions of lytics
+
+      Like Leonhard Euler and Srinivasa Ramanujan:
+
+      - https://en.wikipedia.org/wiki/Fundamental_theorem_on_homomorphisms and
+
+        https://en.wikipedia.org/wiki/Group_homomorphism and
+
+        https://en.wikipedia.org/wiki/Homomorphism
       
-    - https://en.wikipedia.org/wiki/Leonhard_Euler#Analysis
-    - https://en.wikipedia.org/wiki/Root_of_unity#General_definition
+      - https://en.wikipedia.org/wiki/Leonhard_Euler#Analysis
+
+      - https://en.wikipedia.org/wiki/Root_of_unity#General_definition
     
-    - https://en.wikipedia.org/wiki/Ramanujan%27s_sum#Notation
+      - https://en.wikipedia.org/wiki/Ramanujan%27s_sum#Notation
       
-      From here, most people end up in the zeta-function trap: https://en.wikipedia.org/wiki/Riemann_zeta_function or try to find a continuum transfunctioner next to a white castle in Camelot because they get the munchies. Please avoid all of that! Instead follow this line of reasoning about probabilities and causalities: 
+      From here, most people end up in the zeta-function trap: https://en.wikipedia.org/wiki/Riemann_zeta_function or try to find a continuum transfunctioner next to a white castle in Camelot to be dubbed Sir Rick Fartsalot or Shitsalot because they get the munchies. Please avoid all of that! Instead follow this line of reasoning about probabilities and causalities:
+ 
         - https://en.wikipedia.org/wiki/Probability_axioms#Axioms
+
         - https://en.wikipedia.org/wiki/Probability#Not_mutually_exclusive_events 
+
           Consider the challenge of how to define an "event" when considering connectedness or relatedness or coupling between events: 
+
           - https://en.wikipedia.org/wiki/Monty_Hall_problem#Confusion_and_criticism
+
           - https://en.wikipedia.org/wiki/Monty_Hall_problem#Other_host_behaviors
  
-          - And to defeat each Rick at the "Citadel of Ricks" merely solve quantum-n-doors-monty:
+          - And to defeat each Rick at the "Citadel of Ricks" merely solve quantum-n_doors-morty:
+
             - https://en.wikipedia.org/wiki/Monty_Hall_problem#Quantum_version
+
             - https://en.wikipedia.org/wiki/Monty_Hall_problem#N_doors
+
             - Don't stare at the goat or you will end up killing it! https://youtu.be/wyNcf4tNLb4
+
               Instead try staring at Kevin: https://en.wikipedia.org/wiki/Kevin_Spacey#Sexual_misconduct_allegations
 
 
@@ -66,20 +84,28 @@ TODO: nu, mu, ri, du
 
 - nu
 
-  https://en.wikipedia.org/wiki/F-number | f-number - Wikipedia
-  https://en.wikipedia.org/wiki/Circle_of_confusion | Circle of confusion - Wikipedia
-  https://en.wikipedia.org/wiki/Defocus_aberration | Defocus aberration - Wikipedia
-  https://en.wikipedia.org/wiki/Shape_from_focus | Shape from focus - Wikipedia
-  https://en.wikipedia.org/wiki/3D_reconstruction | 3D reconstruction - Wikipedia
+  https://en.wikipedia.org/wiki/F-number | f-number
+
+  https://en.wikipedia.org/wiki/Circle_of_confusion | Circle of confusion
+
+  https://en.wikipedia.org/wiki/Defocus_aberration | Defocus aberration
+
+  https://en.wikipedia.org/wiki/Shape_from_focus | Shape from focus
+
+  https://en.wikipedia.org/wiki/3D_reconstruction | 3D reconstruction
   
 
 - mu
   
-  https://en.wikipedia.org/wiki/Heavy_water | Heavy water - Wikipedia
-  https://en.wikipedia.org/wiki/Ultrapure_water | Ultrapure water - Wikipedia
+  https://en.wikipedia.org/wiki/Heavy_water | Heavy water
+
+  https://en.wikipedia.org/wiki/Ultrapure_water | Ultrapure water
+
   https://t2k-experiment.org/ | The T2K Experiment
-  https://en.wikipedia.org/wiki/Deionized_water | Purified water - Wikipedia
-  https://en.wikipedia.org/wiki/Parts-per_notation | Parts-per notation - Wikipedia
+
+  https://en.wikipedia.org/wiki/Deionized_water | Purified water
+
+  https://en.wikipedia.org/wiki/Parts-per_notation | Parts-per notation
 
 - ri
 
