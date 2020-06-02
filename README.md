@@ -1,6 +1,6 @@
-# mugen
+# mugen (無限)
 ## The mu stands for
-Monetary Unit (MU, M.U. or mu)
+Monetary Unit (MU, M.U., mu or )
 
 **work-in-progress**
 
@@ -47,35 +47,43 @@ The categorical range conceived between minus one to zero and zero to plus one i
     
       - https://en.wikipedia.org/wiki/Ramanujan%27s_sum#Notation
       
-      From here, most people end up in the zeta-function trap: https://en.wikipedia.org/wiki/Riemann_zeta_function or try to find a continuum transfunctioner next to a white castle in Camelot to be dubbed Sir Rick Fartsalot or Shitsalot because they get the munchies. Please avoid all of that! Instead follow this line of reasoning about probabilities and causalities:
+      From here, most people end up in the zeta-function trap: https://en.wikipedia.org/wiki/Riemann_zeta_function or because they get the munchies, try to find a continuum transfunctioner next to a white castle in Camelot to be dubbed:
+      
+      - Sir Rick Fartsalot 
+      - Sir Rick Shitsalot
+      - Sir Rick Peesalot
+      - Sir Rick Barfsalot
+      - Sir Rick Jerksalot
+      - and of course, Sir Rick Burbsalot
+      
+      Please avoid all of that! Instead follow this line of reasoning about probabilities and causalities:
  
         - https://en.wikipedia.org/wiki/Probability_axioms#Axioms
 
         - https://en.wikipedia.org/wiki/Probability#Not_mutually_exclusive_events 
 
-          Consider the challenge of how to define an "event" when considering connectedness or relatedness or coupling between events: 
+          Consider the challenge of how to define an "event" when attempting to identify connectedness or relatedness or coupling between decernable events that have descretizable entities: 
 
           - https://en.wikipedia.org/wiki/Monty_Hall_problem#Confusion_and_criticism
 
           - https://en.wikipedia.org/wiki/Monty_Hall_problem#Other_host_behaviors
  
-          - And to defeat each Rick at the "Citadel of Ricks" merely solve quantum-n_doors-morty:
+          - BONUS! To defeat each Rick at the "Citadel of Ricks" merely solve quantum-n_portals-morty problem:
 
             - https://en.wikipedia.org/wiki/Monty_Hall_problem#Quantum_version
 
             - https://en.wikipedia.org/wiki/Monty_Hall_problem#N_doors
 
-            - Don't stare at the goat or you will end up killing it! https://youtu.be/wyNcf4tNLb4
+            - WARNING! Don't stare at the goat or you will end up killing it! https://youtu.be/wyNcf4tNLb4
 
-              Instead try staring at Kevin: https://en.wikipedia.org/wiki/Kevin_Spacey#Sexual_misconduct_allegations
-
+              - Instead try staring at The Real Donald: https://media.makeameme.org/created/the-real-donald-96080e5d9b.jpg
 
 
 TODO:
  - Revist: https://en.wikipedia.org/wiki/Normed_vector_space
  - explain CyURI
 
-Note:
+### Note:
 Distilled water's relationship to and usages as ultrapurified water is the key factor and most important rationale in this cybernetics based versioning of petrochemical feul economics.
 
 It can be shown that most petrochemical products, their production and the entire process of fossil fuel excavation is negatively valued in comparision to double-distilled tap water. Considering that double-distilled tap water of most jurisdictions on earth is fit for human consumption without additives along with healthy diet and exercise, any type of activity or process that reduces this intrinsic capacity of double-distilled tap water is sub-par or at-best on-par with the mere availablility of proven, local ground water resources. 
@@ -118,7 +126,7 @@ TODO: nu, mu, ri, du
   ?
 
 ## As noted
-1 litre or 1 kilogram of purified <sup>1</sup>H<sub>2</sub><sup>16</sup>O water such that: 
+1 litre or 1 kilogram of purified (double distilled) <sup>1</sup>H<sub>2</sub><sup>16</sup>O water such that: 
   - its **molar** concentration of hydronium ion count <sub>n</sub>[H<sub>3</sub>0<sup>+</sup>] with respect to hydroxyl ion count <sub>n</sub>[OH<sup>-</sup>] within, 
   - aqueous solution state has, 
   - at most 1 part per trillion (10<sup>12</sup>) mol/mol fraction of non H<sub>2</sub>0 based components or impurities at, 
@@ -138,16 +146,17 @@ As always, this proportionate measure is relational to the portable account. Suc
 ## And considering cases of
 - Zero Gravity Environment: (Un)constrained, free-falling, free-floating water in deep space
 - Hyper-gravity Environment: Highly pressurized, at or near solidous state of water within a macro-cellular region of n-D timespace, n from 3 to 3, and 4 to 3 projected. That is, take 4D's projections onto a 3D space.
-- Imperfect, dynamic environments as in https://en.wikipedia.org/wiki/Japanese_aesthetics
+- **P**erfectly **I**mperfect, dynamic environments as in https://en.wikipedia.org/wiki/Japanese_aesthetics
 
 ## Analytics in the sense of
 - Thermogravimetrics: https://en.wikipedia.org/wiki/Thermogravimetric_analysis
 - Electromechanics: https://en.wikipedia.org/wiki/Electrolysis_of_water 
-- Mass Spectrometry, Time of FLight: https://en.wikipedia.org/wiki/Time-of-flight_mass_spectrometry
-- Nana Nana Nana Nana: https://en.wikipedia.org/wiki/Nernst_equation  
+- Mass Spectrometry, Time of Flight: https://en.wikipedia.org/wiki/Time-of-flight_mass_spectrometry
+- Nana Nana Nana Nana: https://en.wikipedia.org/wiki/Nernst_equation
+  - SOCK! POW! ZOK!: https://youtu.be/EtoMN_xi-AM
 
 ## Referenced referees and refereed references
-1. Distilation: https://en.wikipedia.org/wiki/Distillation 
+1. Distillation: https://en.wikipedia.org/wiki/Distillation 
   See also: https://en.wikipedia.org/wiki/Template:Separation_processes
   
 1. Water and related systems. The hydronium ion (H3O+). Preparation and characterization by high resolution oxygen-17 nuclear magnetic resonance for an estimate of oxygen-18 to oxygen-16, heavy water constituent, ratio. 
@@ -177,4 +186,4 @@ As always, this proportionate measure is relational to the portable account. Suc
 - https://en.wikipedia.org/wiki/Paradox_Interactive
 - https://en.wikipedia.org/wiki/Cities:_Skylines
 
-# yūgen
+# yūgen (幽玄)
