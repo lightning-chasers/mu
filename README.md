@@ -1,6 +1,6 @@
 # mugen (無限)
 ## The mu stands for
-Monetary Unit (MU, M.U., mu or )
+Monetary Unit (MU, M.U., mu or μ)
 
 **work-in-progress**
 
@@ -54,29 +54,36 @@ The categorical range conceived between minus one to zero and zero to plus one i
       - Sir Rick Peesalot
       - Sir Rick Barfsalot
       - Sir Rick Jerksalot
-      - and of course, Sir Rick Burbsalot
+      - and of course, Sir Rick Burpsalot
+      
+      <p align="center">
+         <img width="69%" src="https://i.pinimg.com/736x/2b/2e/5c/2b2e5cabf77b0e369e3cafdc015e4513.jpg"></img>
+      </p>
+      <p align="center">
+         <b>This is it Morty! This is *burp* the ultimate power of the holy μ</b>
+      </p>
       
       Please avoid all of that! Instead follow this line of reasoning about probabilities and causalities:
  
-        - https://en.wikipedia.org/wiki/Probability_axioms#Axioms
+       - https://en.wikipedia.org/wiki/Probability_axioms#Axioms
 
-        - https://en.wikipedia.org/wiki/Probability#Not_mutually_exclusive_events 
+       - https://en.wikipedia.org/wiki/Probability#Not_mutually_exclusive_events 
 
-          Consider the challenge of how to define an "event" when attempting to identify connectedness or relatedness or coupling between decernable events that have descretizable entities: 
+       Consider the challenge of how to define an "event" when attempting to identify connectedness or relatedness or coupling between continuous chain of "events" each having descretizable "entities": 
 
-          - https://en.wikipedia.org/wiki/Monty_Hall_problem#Confusion_and_criticism
+       - https://en.wikipedia.org/wiki/Monty_Hall_problem#Confusion_and_criticism
 
-          - https://en.wikipedia.org/wiki/Monty_Hall_problem#Other_host_behaviors
+       - https://en.wikipedia.org/wiki/Monty_Hall_problem#Other_host_behaviors
  
-          - BONUS! To defeat each Rick at the "Citadel of Ricks" merely solve quantum-n_portals-morty problem:
+       BONUS! To defeat each Rick at the "Citadel of Ricks" merely solve quantum-n_portals-morty problem:
 
-            - https://en.wikipedia.org/wiki/Monty_Hall_problem#Quantum_version
+       - https://en.wikipedia.org/wiki/Monty_Hall_problem#Quantum_version
 
-            - https://en.wikipedia.org/wiki/Monty_Hall_problem#N_doors
+       - https://en.wikipedia.org/wiki/Monty_Hall_problem#N_doors
 
-            - WARNING! Don't stare at the goat or you will end up killing it! https://youtu.be/wyNcf4tNLb4
+       - WARNING! Don't stare at the goat or you will end up killing it! https://youtu.be/wyNcf4tNLb4
 
-              - Instead try staring at The Real Donald: https://media.makeameme.org/created/the-real-donald-96080e5d9b.jpg
+       - Instead try staring at The Real Donald: https://media.makeameme.org/created/the-real-donald-96080e5d9b.jpg
 
 
 TODO:
@@ -137,7 +144,7 @@ TODO: nu, mu, ri, du
 
 Note that datum translators, transducers, translations, transcriptions and traversals are always, within and by, themselves subject to, some external datum, external to - every perceived or preconceived - bindings, biddings, forebodings, innings, scope or namespace definitions of any analytical translations or transliterations. 
 
-This external and unaccountable datum is free and seemingly unbound. Though this absolute datum must not to, be dismissed or taken for granted nor should it be taken as "common grounds" for the roughly free-willed agent-observer (observer-agent) nor for the roughly free account of an accountable situation, it is and might as well be, counted upon to exist. Such a conception is defined even if the observer is unobservant of any such conceivable or inconceivable, exegient datum. 
+This external and unaccountable datum is free and seemingly unbound. Though this absolute datum must not be dismissed or taken for granted nor should it be taken as "common grounds" for the roughly free-willed agent-observer (observer-agent) nor for the roughly free account of an accountable situation, it is and might as well be, counted upon to exist. Such a conception is defined even if the observer is unobservant of any such conceivable or inconceivable, exegient datum. 
 
 So, what then is "relative" or "relativity" if one submits to and includes an idea of The Absolute as a witness? Relevance of an account that is, recordable measurements, is always relative to life. Though it can be subject to warranted scrutiny and is quite simply subjective, it is most definitely proportioned to a relationship with and from life. #propotionalizing
 
